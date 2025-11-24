@@ -61,4 +61,10 @@ Pour $x\neq -1$ on $f(x)=-\dfrac{4}{x-2}$.
 
 On en déduit que $f$ est dérivable en $1$ et on a $f'(1)=4$.
 
+2. On a pour tout $h\neq 0$ :
+$$\frac{g(2+h)-g(2)}{h}&=\frac{(2+h)^2-5(2+h)-(2^2-5\times 2)}{h}
+=\frac{4+4h+h^2-10-5h-4+10}{h}
+=\frac{h^2-h}{h}
+=\frac{h(h-1)}{h}=h-1
+$$
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
