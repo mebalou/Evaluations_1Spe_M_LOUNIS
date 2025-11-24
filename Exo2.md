@@ -4,7 +4,8 @@ title: "Corrigé de l’exercice"
 ---
 # Exercice 2 — Sujet B
 
-On pose :  
+On pose : 
+
  $$
 g(x) =\sqrt{x+9}
  $$
