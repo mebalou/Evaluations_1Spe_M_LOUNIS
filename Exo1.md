@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Corrigé de l’exercice"
+---
 # Exercice 1 — Sujet A
 
 Voici un exemple contenant une expression en LaTeX :
