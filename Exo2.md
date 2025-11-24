@@ -2,7 +2,7 @@
 layout: default
 title: "Corrigé de l’exercice"
 ---
-# Exercice 2 — Sujet B
+## Corrigé de l'exercice 2
 
 On pose : 
 
