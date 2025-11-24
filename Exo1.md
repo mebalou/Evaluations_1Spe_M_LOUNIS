@@ -8,6 +8,8 @@ title: "Corrigé de l’exercice"
 
 2. On a $$\frac{f(4+h)-f(4)}{h}=\frac{(4+h)^2-6(4+h)-(4^2-6\times 4)}{h}=\frac{(4+h)^2-6(4+h)-4^2+24}{h}=h+2
 $$. 
+
+
 De plus $\lim_{h\mapsto 0}  (h+2)=2$, on en déduit que $f$ est dérivable en $4$ et on a $f'(4)=2$. 
 ---
 
