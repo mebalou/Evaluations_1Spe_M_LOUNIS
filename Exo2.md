@@ -20,7 +20,6 @@ $$\lim_{h\mapsto 0} \frac{g(0+h)-g(0)}{h}
  =\lim_{h\mapsto 0} \frac{1}{\sqrt{h+9}+3} 
 =\frac{1}{\sqrt{0+9}+3}
    =\frac{1}{6}$$
-
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
