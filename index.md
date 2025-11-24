@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Évaluations 1ère Spé"
+---
 # Cours — Exercices & Corrigés
 
 Bienvenue sur ce site regroupant plusieurs exercices avec leurs corrigés.  
