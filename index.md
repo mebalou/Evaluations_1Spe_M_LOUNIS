@@ -59,5 +59,6 @@ Pour $x\neq -1$ on $f(x)=-\dfrac{4}{x-2}$.
 =4
  $$
 
+On en déduit que $f$ est dérivable en $1$ et on a $f'(1)=4$.
 
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
