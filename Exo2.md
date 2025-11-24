@@ -6,7 +6,7 @@ title: "Corrigé de l’exercice"
 
 On pose :  
  $$
-g(x) = \sqrt{x+9}
+g(x) =\sqrt{x+9}
  $$
 
 Un exemple de manipulation :
