@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Corrigé de l’exercice"
+---
 # Exercice 2 — Sujet B
 
 On pose :  
