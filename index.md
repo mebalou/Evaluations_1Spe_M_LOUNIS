@@ -2,12 +2,9 @@
 layout: default
 title: "Évaluations 1ère Spé"
 ---
-# Cours — Exercices & Corrigés
+# 1ere Spe : Correction de l'interrogation n°2
 
-Bienvenue sur ce site regroupant plusieurs exercices avec leurs corrigés.  
-Les pages suivantes utilisent **MathJax** pour afficher correctement les formules LaTeX.
-
-## 📘 Intérrogation n°2
+## 📘 Correction : Sujet B
 
 ## Corrigé de l'exercice 1
 1. On a : $\frac{(4+h)^2-6(4+h)-4^2+24}{h}=\frac{16+8h+h^2-24-6h-16+24}{h}
@@ -71,6 +68,18 @@ $\displaystyle\lim_{h\mapsto 0} \frac{g(2+h)-g(2)}{h}=\lim_{x\mapsto 0} (h-1)=-1
 
 On en déduit que $g$ est dérivable en $2$ et on a : $g'(2)=-1$.
 
+## Corrigé de l'exercice 4
+On a $f(x)=\frac{1}{x^2}$.
 
+1. Pour $h\neq 0$ et $h\neq -1$, on a :
+$$
+\frac{f(2+h)-f(2)}{h} 
+ = \frac{1}{h}\Big(\frac{1}{(2+h)^2}-\frac{1}{4}\Big) 
+ = \frac{1}{h}\Big(\frac{4}{4(2+h)^2}-\frac{(2+h)^2}{4(h+2)^2}\Big)
+ =\frac{1}{h}\Big(\frac{4-(4+4h+h^2)}{4(2+h)^2}\Big)
+ =\frac{1}{h}\Big(\frac{-4h-h^2}{4(2+h)^2}\Big)
+ = \frac{1}{h}\Big(\dfrac{h(-4-h)}{4(2+h)^2}\Big) 
+ = \frac{-4-h}{4(2+h)^2}
+$$
 
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
