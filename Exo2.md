@@ -4,17 +4,23 @@ title: "Corrigé de l’exercice"
 ---
 ## Corrigé de l'exercice 2
 
-On pose : 
+On a : $g(x)=\sqrt{x+9}$.
+1. $(\sqrt{9+h}-3)(\sqrt{9+h}+3)=(\sqrt{9+h})^2-3^2=9+h-9=h$
+2. 
+$ \dfrac{g(0+h)-g(0)}{h}&=\dfrac{\sqrt{h+9}-3}{h}\\
+&=\dfrac{(\sqrt{h+9}-3)(\sqrt{h+9}+3)}{h(\sqrt{h+9}+3)}\\
+&=\dfrac{h}{h(\sqrt{h+9}+3))}\\
+&=\dfrac{1}{\sqrt{h+9}+3}$
 
- $$
-g(x) =\sqrt{x+9}
- $$
 
-Un exemple de manipulation :
 
- $$
-(\sqrt{9+h}-3)(\sqrt{9+h}+3)=h
- $$
+3. On a : $$ \begin{aligned} 
+\lim_{h\mapsto 0} \dfrac{g(0+h)-g(0)}{h} 
+& =\lim_{h\mapsto 0} \dfrac{1}{\sqrt{h+9}+3} \\
+&=\dfrac{1}{\sqrt{0+9}+3}\\
+&=\dfrac{1}{6}
+\end{aligned}
+$$
 
 ---
 
