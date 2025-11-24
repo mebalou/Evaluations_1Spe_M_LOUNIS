@@ -50,7 +50,14 @@ Pour $x\neq -1$ on $f(x)=-\dfrac{4}{x-2}$.
 =\frac{1}{h}\Big(\frac{-4h}{h-1}\Big)
 =\frac{-4}{h-1} $$
 
-  
+ b) On a : 
+
+ $$
+ \lim_{h\mapsto 0} \frac{f(1+h)-f(1)}{h} 
+ =\lim_{h\mapsto 0} \frac{-4}{h-1} 
+=\frac{-4}{0-1}
+=4
+ $$
 
 
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
