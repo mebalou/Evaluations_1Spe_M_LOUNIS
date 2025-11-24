@@ -72,8 +72,7 @@ On en déduit que $g$ est dérivable en $2$ et on a : $g'(2)=-1$.
 On a $f(x)=\frac{1}{x^2}$.
 
 1. Pour $h\neq 0$ et $h\neq -1$, on a :
-$$
-\frac{f(2+h)-f(2)}{h} 
+$$\frac{f(2+h)-f(2)}{h} 
  = \frac{1}{h}\Big(\frac{1}{(2+h)^2}-\frac{1}{4}\Big) 
  = \frac{1}{h}\Big(\frac{4}{4(2+h)^2}-\frac{(2+h)^2}{4(h+2)^2}\Big)
  =\frac{1}{h}\Big(\frac{4-(4+4h+h^2)}{4(2+h)^2}\Big)
