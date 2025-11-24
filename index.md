@@ -39,6 +39,10 @@ $$\lim_{h\mapsto 0} \frac{g(0+h)-g(0)}{h}
    =\frac{1}{6}$$
    
 ---
+## Corrigé de l'exercice 3
+Pour $x\neq -1$ on $f(x)=-\dfrac{4}{x-2}$.
+1. a) Le taux de variation de $f$ entre $1$ et $1+h$ est : 
+
 
   
 
