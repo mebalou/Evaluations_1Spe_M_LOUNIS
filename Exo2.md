@@ -14,7 +14,9 @@ $$ \frac{g(0+h)-g(0)}{h}=\frac{\sqrt{h+9}-3}{h}
 
 
 
-3. On a : $$\lim_{h\mapsto 0} \frac{g(0+h)-g(0)}{h} 
+3. On a :
+
+$$\lim_{h\mapsto 0} \frac{g(0+h)-g(0)}{h} 
  =\lim_{h\mapsto 0} \frac{1}{\sqrt{h+9}+3} 
 =\frac{1}{\sqrt{0+9}+3}
    =\frac{1}{6}$$
