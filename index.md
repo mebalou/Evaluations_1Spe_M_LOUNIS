@@ -85,5 +85,5 @@ $$
 =\lim_{h\mapsto 0} \frac{-4-h}{4(2+h)^2} 
 =\frac{-4-0}{4(2+0)^2}
 =\frac{-4}{16}
-   =\dfrac{1}{4}$$
+   =-\frac{1}{4}$$
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
