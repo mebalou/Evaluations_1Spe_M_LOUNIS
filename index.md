@@ -80,5 +80,10 @@ $$\frac{f(2+h)-f(2)}{h}
  = \frac{1}{h}\Big(\dfrac{h(-4-h)}{4(2+h)^2}\Big) 
  = \frac{-4-h}{4(2+h)^2}
 $$
-
+2. On a :
+   $$\lim_{h\mapsto 0} \frac{f(2+h)-f(2)}{h} 
+=\lim_{h\mapsto 0} \frac{-4-h}{4(2+h)^2} 
+=\frac{-4-0}{4(2+0)^2}
+=\frac{-4}{16}
+   =\dfrac{1}{4}$$
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
