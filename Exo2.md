@@ -5,9 +5,9 @@ title: "Corrigé de l’exercice"
 # Exercice 2 — Sujet B
 
 On pose :  
- $$
+ \[
 g(x) = \sqrt{x+9}
- $$
+ \]
 
 Un exemple de manipulation :
 
